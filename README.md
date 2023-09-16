@@ -1,16 +1,13 @@
-### Hi there 👋
+# rmicheal (Micheal R.)
 
-<!--
-**rmicheal/rmicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me :)
+- I'm a Software and Web Developer.
+- I have commited in over 1000 repositories on old and current account.
+- Freelancing.
+- 17 Years old.
+- Male.
+- Looking for jobs!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+Email - micheal.r.official@gmail.com
+Discord - micheal.r
